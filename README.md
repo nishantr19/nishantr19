@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh Rai</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")">
+
 - 🌱 I’m currently learning **MongoDB & Expess.js**
 
 - 👨‍💻 All of my projects are available at [https://nishant-singh-rai.netlify.app/](https://nishant-singh-rai.netlify.app/)
