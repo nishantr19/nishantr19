@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishant Singh Rai</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **MongoDB & Expess.js**
 
-- 👨‍💻 All of my projects are available at [https://nishant-singh-rai.netlify.app/](https://nishant-singh-rai.netlify.app/)
+
 
 - 💬 Ask me about **MERN Stack Development.**
 
