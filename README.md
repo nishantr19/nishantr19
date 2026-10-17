@@ -4,7 +4,7 @@
 
 - 🌱 Software Engineer with **2+ years of experience** building scalable microservices, enterprise integrations, and modern web applications.
 - 💼 Currently working as a **Software Engineer at Graviton Consulting Services**.
-- 🎓 B.Tech in Information Technology from **SGSITS Indore** (CGPA: 8.01).
+- 🎓 B.Tech in Information Technology from **Shri Govindram Seksaria Institute of Technology and Science, Indore** (CGPA: 8.01).
 - 💬 Ask me about **Java, Spring Boot, Microservices, React.js, and Full-Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
